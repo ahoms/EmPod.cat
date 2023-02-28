@@ -1,6 +1,6 @@
-Empodcat, el podcast d'urgències i emergències mèdiques en català.
+EmPodCat, el podcast d'urgències i emergències mèdiques en català.
 
-Hola, benvingudes a l'Empodcat,
+Hola, benvingudes a l'EmPodCat,
 
 l'espai per conversar de les urgències i emergències sanitàries,
 
